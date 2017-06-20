@@ -1,0 +1,12 @@
+target
+local.properties
+local.sbt
+/proguard-sbt.txt
+
+#Intellij IDEA
+.idea/
+.d
+
+gradleBuild/
+.externalNativeBuild/
+.gradle/
